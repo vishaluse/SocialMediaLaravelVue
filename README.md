@@ -15,9 +15,10 @@ This project focuses on building a social media website which would be a single 
 - follow and following is added but not yet fully implemented
 
 ## Configuration of the project
-- Add your db name with username and password to .env folder and run migration
+- Add your db name with username and password to .env file and run migration
 - npm install
 - composer require laravel/ui
 - php artisan ui vue
 - Try to have everything included in the package.json 
 - while making changes to frontend, To see the changes on the server run "npm run watch"
+- to run the server of laravel do "php artisan serve"
